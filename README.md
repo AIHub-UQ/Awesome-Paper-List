@@ -17,7 +17,7 @@
  + [**SIGIR**] Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation [`[paper]`](https://dl.acm.org/doi/abs/10.1145/3477495.3531937) [`[code]`](https://github.com/Coder-Yu/SELFRec)
  + [**WWW**] Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning [`[paper]`](https://arxiv.org/abs/2202.06200) [`[code]`](https://github.com/RUCAIBox/NCL)
  + [**WWW**] Intent Contrastive Learning for Sequential Recommendation [`[paper]`](https://dl.acm.org/doi/10.1145/3485447.3512090) [`[code]`](https://github.com/salesforce/ICLRec)
- + [**WSDM**] Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation [`[paper]`](https://dl.acm.org/doi/abs/10.1145/3488560.3498433) [`[code]`](https://github.com/RuihongQiu/DuoRec)]
+ + [**WSDM**] Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation [`[paper]`](https://dl.acm.org/doi/abs/10.1145/3488560.3498433) [`[code]`](https://github.com/RuihongQiu/DuoRec)
  + [**ICDE**] Contrastive Learning for Sequential Recommendation [`[paper]`](https://ieeexplore.ieee.org/abstract/document/9835621)
  + [preprint] Improving Contrastive Learning with Model Augmentation [`[paper]`](https://arxiv.org/abs/2203.15508) [`[code]`](https://github.com/salesforce/SRMA)
 
