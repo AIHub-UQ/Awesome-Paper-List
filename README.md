@@ -136,6 +136,7 @@
 + [**ICML**] DeepMatch: balancing deep covariate representations for causal inference using adversarial training [[Paper]](https://dl.acm.org/doi/abs/10.5555/3524938.3525408)
 + [**NeurIPS**] Identifying causal-effect inference failure with uncertainty-aware models [[Paper]](https://dl.acm.org/doi/abs/10.5555/3495724.3496700)
 + [**UAI**] Identifying causal-effect inference failure with uncertainty-aware models [[Paper]](https://arxiv.org/abs/2011.12379)
++ [**NeurIPS**] Counterfactual predictions under runtime confounding [[Paper]](https://dl.acm.org/doi/abs/10.5555/3495724.3496073)
 
 ### Year 2019
 + [**NeurIPS**] Adapting neural networks for the estimation of treatment effects [[Paper]](https://dl.acm.org/doi/10.5555/3454287.3454512)
