@@ -4,6 +4,7 @@
 - [On Device Recommendation](#on-device-recommendation)
 - [Graph Representation Learning and Inference](#graph-representation-learning-and-inference)
 - [Decentralized/Federated Recommendation](#decentralizedfederated-recommendation)
+- [Multimodal Recommendation](#multimodal-recommendation)
 - [Causal Learning and Inference](#causal-learning-and-inference)
 
 ## Self-Supervised Recommendation
@@ -120,6 +121,8 @@
 ### Year 2019
 + [Preprint] Federated Meta-Learning with Fast Convergence and Efficient Communication [[Paper]](https://arxiv.org/pdf/1802.07876.pdf) [[Code]](https://github.com/ddayzzz/federated-meta)
 + [Preprint] Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System [[Paper]](https://arxiv.org/abs/1901.09888)
+
+## Multimodal Recommendation
 
 ## Causal Learning and Inference
 ### Year 2022
